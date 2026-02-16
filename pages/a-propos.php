@@ -14,7 +14,7 @@ include '../includes/header.php';
             </div>
         </div>
         <div class="col-md-6 text-center">
-            <img src="../assets/img/team.jpg" alt="Notre équipe" class="img-fluid rounded shadow-lg" onerror="this.src='">
+            <img src="../assets/img/team.jpg" alt="Notre équipe" class="img-fluid rounded shadow-lg" onerror="this.src='team.png'">
         </div>
     </div>
 
