@@ -14,10 +14,6 @@ include '../includes/header.php';
             
             <h1 class="display-4 fw-bold">Commande Confirmée !</h1>
             <p class="lead mb-5">Merci pour votre achat. Votre commande a été enregistrée avec succès et est en cours de préparation.</p>
-            
-            <div class="card shadow-sm border-0 bg-light p-4 mb-4">
-                <p class="mb-0">Vous pouvez retrouver le détail de vos achats dans la base de données (Table <code>orders</code>).</p>
-            </div>
 
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
                 <a href="catalogue.php" class="btn btn-primary btn-lg px-4 gap-3">Retourner à la boutique</a>
